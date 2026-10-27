@@ -19,7 +19,7 @@ targets:
     type: application
     platform: iOS
     sources:
-      - path: TradeSense
+      - path: .
     settings:
       base:
         PRODUCT_NAME: TradeSense
